@@ -2,10 +2,18 @@
   "name": "generator-react-flux-barebones",
   "version": "0.1.0",
   "description": "A generator for scaffolding a barebones React.js app with build pipeline and development server",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mclark1129/generator-react-flux-barebones.git"
+  },
   "keywords": [
     "yeoman-generator"
   ],
-  "author": "Mike Clark",
+  "author": "Mike Clar <mclark1129@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/mclark1129/generator-react-flux-barebones/issues",
+    "email": "mclark1129@gmail.com"
+  },
   "license": "ISC",
   "files": [
     "app"
