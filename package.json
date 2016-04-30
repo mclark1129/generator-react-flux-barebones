@@ -1,0 +1,16 @@
+{
+  "name": "generator-react-flux-barebones",
+  "version": "0.1.0",
+  "description": "A generator for scaffolding a barebones React.js app with build pipeline and development server",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Mike Clark",
+  "license": "ISC",
+  "files": [
+    "app"
+  ],
+  "devDependencies": {
+    "typings": "^0.8.1"
+  }
+}
